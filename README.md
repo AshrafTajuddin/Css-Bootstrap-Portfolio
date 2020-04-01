@@ -36,8 +36,20 @@ BootstrapCDN: bootstrap content delivery network. To enter bootstrap externally
 - [Bootstrap Components- mdbootstrap](https://mdbootstrap.com/docs/jquery/components/demo/)
 - [Hover.css](http://ianlunn.github.io/Hover/)
 
-#### Result
+#### Step by step
 
-![Imgur](https://i.imgur.com/yvEvhnG.gif)
+- 1st step building the first page-PERSONAL INFO-
+  ![Imgur](https://i.imgur.com/yvEvhnG.gif)
+
+- 2nd step adding second page-RESUME-
+  ![Imgur](https://i.imgur.com/zl08HPB.gif)
+
+- 3nd step adding third page-FORM-
+  ![Imgur](https://i.imgur.com/FgAzmtw.gif)
+
+- last step adding last page that directed link to pdf file.
+  ![Imgur](https://i.imgur.com/lOOYAx5.gif)
+
+#### Result
 
 [Feel free to click here for the deployment!]()
