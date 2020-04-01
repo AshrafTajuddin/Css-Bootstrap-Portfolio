@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700");
 @import url("https://fonts.googleapis.com/css?family=Courgette&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap");
 /*--------------------------------------------COLORS*/
 * {
   margin: 0;
@@ -368,4 +369,12 @@ footer {
 
 #footer-details {
   padding: 20px;
+}
+
+.copyright {
+  text-align: center;
+  color: burlywood;
+  font-weight: 400;
+  font-size: x-large;
+  font-family: "Roboto Mono", monospace;
 }

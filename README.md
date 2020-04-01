@@ -48,11 +48,11 @@ BootstrapCDN: bootstrap content delivery network. To enter bootstrap externally
   ![Imgur](https://i.imgur.com/FgAzmtw.gif)
 
 - 4th step adding last page that directed link to pdf file.
-  ![Imgur](https://i.imgur.com/lOOYAx5.gif)
+  ![Imgur](https://i.imgur.com/FfYhrxJ.gif)
 
 - LAST step adding FOOTER that contain link to Soc-Med's Profile and pdf-file.
-  ![Imgur](https://i.imgur.com/qqeaa29.png)
+  ![Imgur](https://i.imgur.com/hOdf8hq.png)
 
 #### Result
 
-[Feel free to click here for the deployment!]()
+[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/Css-Bootstrap-Portfolio-Complete/)
