@@ -44,11 +44,14 @@ BootstrapCDN: bootstrap content delivery network. To enter bootstrap externally
 - 2nd step adding second page-RESUME-
   ![Imgur](https://i.imgur.com/zl08HPB.gif)
 
-- 3nd step adding third page-FORM-
+- 3th step adding third page-FORM-
   ![Imgur](https://i.imgur.com/FgAzmtw.gif)
 
-- last step adding last page that directed link to pdf file.
+- 4th step adding last page that directed link to pdf file.
   ![Imgur](https://i.imgur.com/lOOYAx5.gif)
+
+- LAST step adding FOOTER that contain link to Soc-Med's Profile and pdf-file.
+  ![Imgur](https://i.imgur.com/qqeaa29.png)
 
 #### Result
 
