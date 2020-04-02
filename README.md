@@ -8,7 +8,7 @@
 
 ```html
 <!-- in HTML used  HTML Semantic Elements and
- Bootstrap Layout(Container-fluid) & Components(Button, Dropdown, Form, Jumbotron , NavBar & more ...)
+ Bootstrap Layout(Container-fluid) & Components(Button, Dropdown, Form, NavBar & more ...)
 ```
 
 - [Click here to see HTML Code](index.html)
