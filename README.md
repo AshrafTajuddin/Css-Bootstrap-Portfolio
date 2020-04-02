@@ -24,8 +24,6 @@ used Font Awesome for the icon
 used Google Fonts for the unique font-style
 ```
 
-- [Click here to see CSS Code](css/style.css)
-
 ### New Dictionary
 
 BootstrapCDN: bootstrap content delivery network. To enter bootstrap externally
